@@ -1,1 +1,2 @@
 token = ${test}
+print(token)
